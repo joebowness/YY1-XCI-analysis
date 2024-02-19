@@ -12,13 +12,13 @@ bioRxiv 2023.11.22.568288; doi: [https://doi.org/10.1101/2023.11.22.568288](http
 -----
 
 
-Scripts for allelic analysis of ATAC-seq data from a time-course of mESC-to-NPC differentiation in iXist-ChrX-Dom cells were run first:
+First, run scripts for allelic analysis of ATAC-seq from the time-course of mESC-to-NPC differentiation in iXist-ChrX-Dom cells:
 
 [AllelicATAC_iXistChrXDom](https://joebowness.github.io/YY1-XCI-analysis/AllelicATAC_iXistChrXDom.html) and then [AllelicATAC_EDM](https://joebowness.github.io/YY1-XCI-analysis/AllelicATAC_iXistChrXDom.html). Plots included as panels of Figure2A can also be found within these records. 
  
  Following these two scripts, the records of the analysis performed to generate all other R plots in the paper can be found below:
  
-[Figure1_chrRNA_ATAC](https://joebowness.github.io/YY1-XCI-analysis/Figure1_chrRNA_ATAC.html target="_blank")
+[Figure1_chrRNA_ATAC](https://joebowness.github.io/YY1-XCI-analysis/Figure1_chrRNA_ATAC.html)
 
 [Figure2_YY1association](https://joebowness.github.io/YY1-XCI-analysis/Figure2_YY1association.html)
 
