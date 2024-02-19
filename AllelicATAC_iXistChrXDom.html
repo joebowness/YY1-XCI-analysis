@@ -439,14 +439,18 @@ pre code {
 
 <h1 class="title toc-ignore">Allelic ATAC-seq - initial analysis</h1>
 <h4 class="author">Joe Bowness</h4>
-<h4 class="date">20/01/2024</h4>
 
 </div>
 
+<div id="TOC">
+<ul>
+<li><a href="#apply-allelic-filters-and-make-allelic-ratio-table">Apply allelic filters and make allelic ratio table:</a></li>
+</ul>
+</div>
 
 <p><strong>Load required files for analysis </strong></p>
-<pre class="r"><code># ATAC_analysis_path &lt;- &quot;/path/to/your/ATAC/analysis/folder/&quot;
-# path_to_ATAC_data &lt;- paste0(ATAC_analysis_path, &quot;ATAC_ftCounts_chrX1&quot;)</code></pre>
+<pre class="r"><code>ATAC_analysis_path &lt;- &quot;/path/to/your/ATAC/analysis/folder/&quot;
+path_to_ATAC_data &lt;- paste0(ATAC_analysis_path, &quot;ATAC_ftCounts_chrX1&quot;)</code></pre>
 <p><strong>Load packages and functions</strong></p>
 <pre class="r"><code># Packages
 library(readr)
