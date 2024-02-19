@@ -30,7 +30,7 @@ First, we run scripts for allelic analysis of ATAC-seq from the time-course of m
 [FigureS4_SmcHD1ko_ATAC](https://joebowness.github.io/YY1-XCI-analysis/FigureS4_SmcHD1ko_ATAC.html)
  
  
- Locations where raw data files can be downloaded from are described in the analysis records. Many files are also made available here within the "files" folder of this Github repository. 
+Most files which are loaded by these scripts have been uploaded to the "files" folder of this Github repository. Some larger raw data files (eg genome-wide "counts tables" outputs from featureCounts) are not attached but can be downloaded from GEO. The specific GEO accessions are provided in the analysis records. 
 
 
 
