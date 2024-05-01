@@ -6,7 +6,7 @@ This is an analysis record to accompany the paper:
 
 Joseph S Bowness, Mafalda Almeida, Tatyana B Nesterova, Neil Brockdorff
 
-bioRxiv 2023.11.22.568288; doi: [https://doi.org/10.1101/2023.11.22.568288](https://doi.org/10.1101/2023.11.22.568288)
+EMBO Rep. 2024 Apr 23. doi: [https://doi.org/10.1038/s44319-024-00136-3](https://doi.org/10.1038/s44319-024-00136-3)
 
 
 -----
